@@ -1,0 +1,9 @@
+streamlit
+PyMuPDF
+pdfplumber
+sentence-transformers
+groq
+torch
+scikit-learn
+pandas
+python-dotenv
