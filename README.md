@@ -38,5 +38,5 @@ A Streamlit web application that compares two PDF documents, semantically chunks
 *(Insert screenshot here)*
 
 
-##LIMITATION:
--The current sequential alignment approach struggles when content is reordered between versions rather than modified in place.
+##LIMITATION
+- The current sequential alignment approach struggles when content is reordered between versions rather than modified in place.
